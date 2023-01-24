@@ -6,9 +6,8 @@ body {
 }
 
 #spotifypng {
-  max-width: 50%;
-  height: auto;
   width: auto;
+  height: 100px;
   position: relative;
   display: block;
   margin-left: auto;
