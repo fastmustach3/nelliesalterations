@@ -1,0 +1,49 @@
+body {
+  background: #000;
+  color: #fff;
+  padding: 25px;
+  font-family: sans-serif;
+}
+
+#spotifypng {
+  width: auto;
+  height: 100px;
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#wink-wink, h1 {
+  text-align: center;
+  background: #000;
+  color: #fff;
+  padding: 25px;
+  font-family:"Lucida Console", "Courier New", monospace;
+
+}
+
+#pease{
+   width: 200px;
+  height: 200x;
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 15px;
+}
+
+#ToTopTarget{
+    text-align: center;
+  background: #000;
+  color: #fff;
+  padding: 25px;
+  font-family:"Lucida Console", "Courier New", monospace;
+}
+
+a{
+  background: #000;
+  color: #fff;
+  padding: 25px;
+  font-family:"Lucida Console", "Courier New", monospace;
+}
