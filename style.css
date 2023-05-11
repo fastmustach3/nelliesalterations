@@ -52,7 +52,7 @@ body {
 	--animation-iterations: var(--iterations, 1);
 	position: relative;
  font-family: Georgia, serif;
-	font-size: 9vw;
+	font-size: 4 vw;
 	animation-name: clip-text;
 	color: #FFFFF;
 	white-space: nowrap;
